@@ -1,0 +1,101 @@
+Date,Category,PaymentMode,Description,AmountPaid,Cashback
+2023-01-20,Transportation,Cash,Accessories shopping,28.37,15.53
+2023-01-22,Transportation,Cash,Streaming service subscription renewal,430.13,1.08
+2023-01-28,Personal,Online,Internet service provider bill,344.99,4.49
+2023-01-02,Food,Cash,Fuel refill at Gas Station Name,496.77,1.94
+2023-01-04,Bills,Cash,Vegetables and fruits from local market,135.77,7.36
+2023-01-25,Subscriptions,Online,Fuel refill at Gas Station Name,414.76,4.78
+2023-01-08,Transportation,Cash,monthly metro pass renewal,203.83,19.31
+2023-01-12,Subscriptions,Cash,Taxi fare for office,402.3,16.26
+2023-01-29,Groceries,Cash,Cloud storage subscription payment,466.32,0.63
+2023-01-27,Transportation,Online,Monthly health insurance premium,19.51,8.47
+2023-01-14,Bills,Online,Fuel refill at Gas Station Name,57.96,13.04
+2023-01-10,Food,Cash,Internet service provider bill,428.92,1.05
+2023-01-05,Personal,Cash,Mobile recharge,195.08,9.06
+2023-01-17,Personal,Online,Online course purchase on unacademy,370.52,6.48
+2023-01-22,Groceries,Online,Mobile recharge,437.17,4.24
+2023-01-29,Food,Cash,Household essentials purchase,479.0,13.13
+2023-01-25,Subscriptions,Cash,Internet service provider bill,210.66,12.85
+2023-01-11,Groceries,Online,Cloud storage subscription payment,265.52,14.0
+2023-01-04,Bills,Online,Monthly health insurance premium,102.33,10.15
+2023-01-30,Food,Online,Monthly gym membership fee,122.61,9.99
+2023-01-12,Subscriptions,Cash,Streaming service subscription renewal,476.88,1.47
+2023-01-07,Bills,Cash,Online course purchase on unacademy,13.8,5.94
+2023-01-02,Groceries,Cash,Vegetables and fruits from local market,283.61,13.88
+2023-01-01,Personal,Online,Streaming service subscription renewal,455.37,4.47
+2023-01-10,Subscriptions,Cash,Amusement park entry fee,472.35,14.46
+2023-01-11,Personal,Cash,Monthly health insurance premium,387.13,13.98
+2023-01-21,Transportation,Cash,Online course purchase on unacademy,299.06,14.59
+2023-01-27,Subscriptions,Online,Amusement park entry fee,156.5,13.68
+2023-01-21,Food,Online,Streaming service subscription renewal,259.87,14.19
+2023-01-11,Transportation,Cash,Taxi fare for office,40.48,12.63
+2023-01-18,Subscriptions,Cash,Monthly gym membership fee,419.51,10.97
+2023-01-27,Bills,Cash,Household essentials purchase,226.91,7.75
+2023-01-18,Bills,Cash,Fuel refill at Gas Station Name,438.12,1.64
+2023-01-18,Transportation,Cash,Fuel refill at Gas Station Name,439.47,7.24
+2023-01-08,Groceries,Online,Monthly health insurance premium,360.22,9.2
+2023-01-21,Bills,Cash,monthly metro pass renewal,195.28,8.37
+2023-01-26,Transportation,Online,Monthly health insurance premium,268.74,7.56
+2023-01-20,Bills,Cash,Internet service provider bill,61.91,14.15
+2023-01-07,Bills,Cash,Household essentials purchase,222.81,6.02
+2023-01-10,Bills,Online,Household essentials purchase,13.54,1.22
+2023-01-06,Subscriptions,Cash,Internet service provider bill,232.12,13.89
+2023-01-12,Bills,Cash,Amusement park entry fee,431.5,7.26
+2023-01-05,Food,Cash,Amusement park entry fee,370.27,1.51
+2023-01-10,Bills,Online,Cloud storage subscription payment,180.91,12.21
+2023-01-07,Groceries,Cash,Vegetables and fruits from local market,363.34,3.01
+2023-01-29,Personal,Online,Streaming service subscription renewal,37.81,10.31
+2023-01-17,Personal,Online,monthly metro pass renewal,60.52,10.62
+2023-01-30,Groceries,Cash,Taxi fare for office,366.61,1.37
+2023-01-22,Personal,Online,Streaming service subscription renewal,322.1,7.7
+2023-01-14,Subscriptions,Cash,monthly metro pass renewal,465.62,14.69
+2023-01-08,Groceries,Online,Monthly health insurance premium,73.95,17.05
+2023-01-10,Groceries,Cash,Online course purchase on unacademy,256.49,9.81
+2023-01-08,Groceries,Online,Mobile recharge,128.55,4.43
+2023-01-15,Groceries,Cash,Cloud storage subscription payment,362.63,1.54
+2023-01-02,Personal,Online,Household essentials purchase,456.64,10.8
+2023-01-15,Bills,Cash,Cloud storage subscription payment,110.57,4.9
+2023-01-02,Groceries,Cash,Cloud storage subscription payment,14.83,4.73
+2023-01-21,Transportation,Cash,Mobile recharge,72.25,17.23
+2023-01-24,Personal,Online,Cloud storage subscription payment,447.3,6.81
+2023-01-17,Bills,Online,monthly metro pass renewal,152.19,13.38
+2023-01-03,Food,Online,Online course purchase on unacademy,350.13,0.32
+2023-01-09,Transportation,Online,Vegetables and fruits from local market,20.34,2.21
+2023-01-12,Subscriptions,Online,Amusement park entry fee,273.09,3.23
+2023-01-04,Bills,Online,Monthly health insurance premium,417.38,6.18
+2023-01-05,Personal,Cash,Household essentials purchase,340.23,1.22
+2023-01-19,Subscriptions,Online,Online course purchase on unacademy,118.95,11.73
+2023-01-11,Subscriptions,Cash,Accessories shopping,41.0,18.65
+2023-01-18,Subscriptions,Online,Cloud storage subscription payment,404.2,13.19
+2023-01-04,Food,Online,Taxi fare for office,295.23,5.89
+2023-01-08,Food,Cash,Internet service provider bill,249.89,16.37
+2023-01-02,Subscriptions,Cash,monthly metro pass renewal,399.74,5.54
+2023-01-06,Personal,Cash,monthly metro pass renewal,479.34,5.81
+2023-01-12,Bills,Online,Monthly gym membership fee,474.37,11.44
+2023-01-04,Transportation,Online,Taxi fare for office,86.97,3.97
+2023-01-01,Personal,Online,Online course purchase on unacademy,71.97,4.14
+2023-01-26,Food,Cash,Online course purchase on unacademy,45.36,16.01
+2023-01-16,Groceries,Cash,Streaming service subscription renewal,115.0,5.48
+2023-01-28,Food,Cash,Amusement park entry fee,299.86,10.2
+2023-01-28,Personal,Cash,Streaming service subscription renewal,37.47,12.87
+2023-01-25,Bills,Online,Fuel refill at Gas Station Name,185.73,11.31
+2023-01-07,Personal,Online,Amusement park entry fee,236.02,11.52
+2023-01-01,Transportation,Online,Online course purchase on unacademy,205.22,19.2
+2023-01-04,Groceries,Online,monthly metro pass renewal,102.48,0.03
+2023-01-21,Subscriptions,Online,Vegetables and fruits from local market,41.11,2.65
+2023-01-11,Bills,Cash,Fuel refill at Gas Station Name,76.92,14.78
+2023-01-27,Bills,Cash,monthly metro pass renewal,259.39,11.37
+2023-01-27,Subscriptions,Online,Accessories shopping,45.03,12.77
+2023-01-26,Transportation,Cash,monthly metro pass renewal,87.18,9.56
+2023-01-06,Personal,Cash,Household essentials purchase,194.06,19.49
+2023-01-29,Personal,Online,Streaming service subscription renewal,311.27,1.81
+2023-01-28,Bills,Cash,Household essentials purchase,349.79,1.83
+2023-01-26,Bills,Cash,Monthly gym membership fee,36.92,10.91
+2023-01-22,Groceries,Online,Vegetables and fruits from local market,343.62,19.04
+2023-01-05,Bills,Cash,Cloud storage subscription payment,256.75,12.58
+2023-01-28,Transportation,Cash,Household essentials purchase,50.19,4.35
+2023-01-16,Bills,Online,Amusement park entry fee,44.91,18.61
+2023-01-12,Transportation,Online,Amusement park entry fee,51.0,8.03
+2023-01-16,Personal,Online,Streaming service subscription renewal,246.92,16.61
+2023-01-28,Transportation,Cash,Taxi fare for office,278.74,16.87
+2023-01-28,Groceries,Online,Cloud storage subscription payment,311.01,2.75
