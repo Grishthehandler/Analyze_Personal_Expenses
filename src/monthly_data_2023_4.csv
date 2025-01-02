@@ -1,0 +1,101 @@
+Date,Category,Payment Mode,Description,Amount Paid,Cashback
+2023-04-01,Clothing,Online,Underwear And Socks,666.31,18.79
+2023-04-01,Utilities,Cash,Cable TV Subscription,1664.32,36.34
+2023-04-01,Clothing,Online,Formal Wear,7197.46,585.37
+2023-04-01,Dining Out,Cash,Brunch With Friends,1004.38,58.29
+2023-04-01,Dining Out,Cash,Desserts And Treats,249.1,10.49
+2023-04-02,Transportation,Online,Bicycle Repairs,546.78,15.24
+2023-04-02,Transportation,Cash,Public Transit Pass,1496.33,142.59
+2023-04-02,Health & Fitness,Cash,Health Screenings,1728.24,2.26
+2023-04-02,Housing,Cash,Home Security System,3574.98,74.39
+2023-04-02,Subscriptions,Cash,Gym Membership,2777.46,241.29
+2023-04-03,Dining Out,Cash,Buffet Meals,1233.96,6.7
+2023-04-03,Utilities,Cash,Cable TV Subscription,1901.47,5.42
+2023-04-03,Groceries,Online,Frozen Foods,587.31,6.22
+2023-04-03,Subscriptions,Cash,Software Licenses,1682.58,67.79
+2023-04-03,Travel,Cash,Hotel Accommodation,5374.23,447.32
+2023-04-03,Dining Out,Online,Coffee Shop Visit,442.18,2.6
+2023-04-04,Groceries,Cash,Organic Produce,815.04,49.81
+2023-04-05,Dining Out,Online,Street Food,150.6,7.04
+2023-04-05,Subscriptions,Online,Software Licenses,1483.22,24.56
+2023-04-06,Groceries,Online,Condiments And Spices,964.73,10.83
+2023-04-06,Travel,Cash,Travel Insurance,2615.0,179.6
+2023-04-06,Travel,Online,Dining While Traveling,1483.85,42.72
+2023-04-06,Dining Out,Online,Coffee Shop Visit,132.35,12.74
+2023-04-07,Groceries,Cash,Frozen Foods,968.35,84.65
+2023-04-07,Entertainment,Online,Concert Tickets,960.74,75.3
+2023-04-07,Entertainment,Online,Board Games,885.49,73.64
+2023-04-07,Groceries,Cash,Meat And Fish,4973.96,387.98
+2023-04-07,Subscriptions,Online,Meal Kit Subscriptions,1947.62,126.05
+2023-04-07,Dining Out,Cash,Dinner At A Restaurant,2578.97,90.11
+2023-04-08,Travel,Online,Travel Accessories,2324.78,42.95
+2023-04-08,Health & Fitness,Online,Gym Membership,2008.98,103.01
+2023-04-08,Entertainment,Cash,Theater Performances,2339.83,219.86
+2023-04-08,Entertainment,Cash,Theater Performances,2705.1,174.45
+2023-04-09,Health & Fitness,Online,Yoga Classes,972.29,15.31
+2023-04-09,Travel,Online,Hotel Accommodation,18803.56,93.88
+2023-04-09,Clothing,Online,Formal Wear,9446.47,293.18
+2023-04-09,Entertainment,Cash,Books And E-Books,315.12,14.39
+2023-04-09,Dining Out,Cash,Coffee Shop Visit,279.95,18.57
+2023-04-10,Groceries,Online,Organic Produce,1835.83,9.46
+2023-04-11,Subscriptions,Online,Gym Membership,2769.32,38.91
+2023-04-11,Housing,Cash,Home Repairs,6515.93,53.08
+2023-04-12,Subscriptions,Online,Meal Kit Subscriptions,1791.07,85.44
+2023-04-12,Groceries,Online,Staple Grains,546.05,22.25
+2023-04-12,Health & Fitness,Online,Gym Membership,1028.86,5.28
+2023-04-12,Utilities,Cash,Gas Bill,1386.62,9.61
+2023-04-12,Travel,Cash,Dining While Traveling,2762.09,73.79
+2023-04-12,Dining Out,Online,Coffee Shop Visit,207.09,14.58
+2023-04-13,Travel,Online,Travel Insurance,1983.95,107.73
+2023-04-13,Utilities,Online,Water Bill,907.06,45.4
+2023-04-14,Travel,Cash,Dining While Traveling,2173.27,165.58
+2023-04-14,Housing,Online,Utilities Included,1738.31,58.84
+2023-04-14,Housing,Cash,Furnishings,7857.82,643.5
+2023-04-14,Transportation,Online,Car Loan Payment,7427.8,631.99
+2023-04-14,Dining Out,Cash,Dinner At A Restaurant,2805.47,239.05
+2023-04-15,Health & Fitness,Online,Medical Consultations,2961.64,24.32
+2023-04-15,Subscriptions,Online,Streaming Services,354.47,25.62
+2023-04-15,Dining Out,Cash,Coffee Shop Visit,107.38,5.04
+2023-04-16,Subscriptions,Online,Online Learning Platforms,2217.98,140.44
+2023-04-16,Housing,Online,Mortgage Payment,29843.05,1100.67
+2023-04-17,Utilities,Cash,Gas Bill,634.29,7.49
+2023-04-17,Transportation,Cash,Car Maintenance,4537.25,285.07
+2023-04-18,Housing,Online,Appliance Purchases,20039.49,1416.75
+2023-04-18,Clothing,Cash,Seasonal Clothing,2302.0,113.61
+2023-04-18,Dining Out,Online,Coffee Shop Visit,200.75,17.84
+2023-04-19,Health & Fitness,Online,Personal Training Sessions,3530.84,265.06
+2023-04-19,Health & Fitness,Online,Gym Membership,1901.4,164.08
+2023-04-19,Health & Fitness,Cash,Personal Training Sessions,4010.77,180.83
+2023-04-20,Dining Out,Online,Coffee Shop Visit,324.47,7.05
+2023-04-20,Health & Fitness,Online,Wellness Programs,1322.37,7.84
+2023-04-20,Groceries,Online,Frozen Foods,390.69,9.1
+2023-04-20,Clothing,Cash,Children's Apparel,2859.83,145.35
+2023-04-20,Subscriptions,Online,Cloud Storage Services,208.79,1.25
+2023-04-21,Dining Out,Online,Coffee Shop Visit,275.49,23.1
+2023-04-21,Transportation,Online,Car Maintenance,3180.46,157.64
+2023-04-21,Transportation,Cash,Car Loan Payment,7842.48,183.73
+2023-04-21,Dining Out,Online,Lunch Takeaway,565.08,34.56
+2023-04-21,Travel,Online,Car Rentals,2446.08,21.47
+2023-04-21,Dining Out,Online,Dinner At A Restaurant,1455.86,3.16
+2023-04-21,Dining Out,Online,Coffee Shop Visit,452.76,0.23
+2023-04-22,Clothing,Cash,Fashion Accessories,638.17,6.98
+2023-04-22,Travel,Cash,Hotel Accommodation,13074.64,337.46
+2023-04-22,Groceries,Online,Fruits And Vegetables,1959.18,47.33
+2023-04-23,Groceries,Cash,Meat And Fish,2891.9,27.03
+2023-04-23,Travel,Cash,Car Rentals,1913.24,146.2
+2023-04-23,Health & Fitness,Cash,Medical Consultations,4575.92,362.72
+2023-04-23,Entertainment,Cash,Hobby Supplies,466.37,10.98
+2023-04-23,Travel,Cash,Baggage Fees,1675.36,110.68
+2023-04-24,Travel,Cash,Hotel Accommodation,9575.08,77.87
+2023-04-24,Dining Out,Online,Coffee Shop Visit,300.02,7.41
+2023-04-25,Groceries,Online,Staple Grains,876.77,19.14
+2023-04-25,Transportation,Online,Bicycle Repairs,832.19,12.06
+2023-04-25,Groceries,Cash,Dairy Products,980.24,16.71
+2023-04-25,Groceries,Online,Organic Produce,1950.12,39.85
+2023-04-26,Travel,Cash,Souvenirs,601.77,12.38
+2023-04-27,Subscriptions,Online,Streaming Services,574.29,40.58
+2023-04-27,Health & Fitness,Online,Personal Training Sessions,4478.73,306.33
+2023-04-27,Subscriptions,Online,Gaming Subscriptions,1096.25,94.23
+2023-04-27,Dining Out,Online,Coffee Shop Visit,317.53,8.1
+2023-04-28,Entertainment,Cash,Art Supplies,1292.1,65.89
+2023-04-28,Dining Out,Online,Dinner At A Restaurant,1352.05,52.9

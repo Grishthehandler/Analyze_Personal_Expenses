@@ -1,0 +1,101 @@
+Date,Category,Payment Mode,Description,Amount Paid,Cashback
+2023-11-01,Transportation,Cash,Public Transit Pass,571.65,52.2
+2023-11-01,Transportation,Cash,Toll Charges,370.72,19.78
+2023-11-02,Subscriptions,Cash,Gaming Subscriptions,1103.96,22.66
+2023-11-02,Dining Out,Online,Beverages At Bars,830.99,36.68
+2023-11-02,Groceries,Online,Condiments And Spices,566.86,24.82
+2023-11-02,Entertainment,Cash,Movie Tickets,438.12,32.32
+2023-11-02,Clothing,Online,Formal Wear,5527.54,203.99
+2023-11-03,Housing,Online,Home Security System,4158.38,79.39
+2023-11-03,Housing,Cash,Home Security System,1286.56,104.91
+2023-11-03,Subscriptions,Cash,Gym Membership,2117.22,102.39
+2023-11-03,Dining Out,Online,Coffee Shop Visit,450.33,26.41
+2023-11-04,Dining Out,Cash,Lunch Takeaway,341.45,9.62
+2023-11-05,Health & Fitness,Cash,Wellness Programs,1413.09,119.38
+2023-11-05,Subscriptions,Cash,Online Learning Platforms,1117.07,40.39
+2023-11-05,Utilities,Online,Cable TV Subscription,1360.81,73.19
+2023-11-05,Clothing,Online,Casual Wear,1191.07,85.55
+2023-11-06,Travel,Online,Car Rentals,1689.99,139.14
+2023-11-06,Dining Out,Cash,Coffee Shop Visit,336.32,29.4
+2023-11-07,Travel,Online,Airfare,30502.03,929.33
+2023-11-07,Dining Out,Cash,Dinner At A Restaurant,1235.97,38.93
+2023-11-08,Entertainment,Online,Sports Events Tickets,2480.76,101.47
+2023-11-08,Clothing,Online,Tailoring Services,770.71,74.18
+2023-11-08,Entertainment,Cash,Art Supplies,942.58,45.0
+2023-11-08,Groceries,Cash,Fruits And Vegetables,1649.5,30.15
+2023-11-08,Subscriptions,Cash,Meal Kit Subscriptions,2363.23,223.19
+2023-11-09,Clothing,Online,Footwear,2397.8,60.69
+2023-11-09,Dining Out,Online,Coffee Shop Visit,287.6,11.25
+2023-11-10,Dining Out,Cash,Desserts And Treats,136.55,12.08
+2023-11-10,Dining Out,Online,Snacks From A Convenience Store,466.84,14.67
+2023-11-10,Clothing,Online,Underwear And Socks,699.41,3.06
+2023-11-10,Utilities,Online,Electricity Bill,1014.3,17.37
+2023-11-11,Subscriptions,Cash,Gaming Subscriptions,947.32,64.8
+2023-11-11,Entertainment,Cash,Books And E-Books,852.25,84.9
+2023-11-11,Utilities,Online,Home Heating Costs,2031.56,198.09
+2023-11-11,Utilities,Online,Home Heating Costs,1220.5,112.49
+2023-11-12,Clothing,Online,Athletic Wear,1157.23,58.48
+2023-11-12,Subscriptions,Online,Cloud Storage Services,160.21,0.33
+2023-11-12,Entertainment,Online,Sports Events Tickets,2693.94,183.55
+2023-11-12,Travel,Cash,Travel Accessories,2229.14,201.23
+2023-11-12,Utilities,Online,Mobile Phone Bill,585.36,2.88
+2023-11-12,Dining Out,Online,Coffee Shop Visit,178.07,4.58
+2023-11-13,Entertainment,Online,Hobby Supplies,1314.41,3.13
+2023-11-14,Health & Fitness,Online,Nutritional Supplements,1120.47,56.39
+2023-11-14,Dining Out,Cash,Dinner At A Restaurant,1746.49,116.03
+2023-11-15,Utilities,Cash,Electricity Bill,2605.17,67.56
+2023-11-15,Dining Out,Cash,Coffee Shop Visit,467.23,26.74
+2023-11-16,Utilities,Cash,Internet Service,926.18,45.72
+2023-11-16,Entertainment,Cash,Hobby Supplies,454.08,28.16
+2023-11-16,Housing,Online,Home Security System,4570.36,387.67
+2023-11-16,Travel,Online,Travel Insurance,1338.2,83.87
+2023-11-17,Health & Fitness,Online,Health Screenings,736.07,30.5
+2023-11-17,Health & Fitness,Online,Wellness Programs,807.53,34.76
+2023-11-17,Utilities,Cash,Sewer Charges,701.48,13.71
+2023-11-17,Groceries,Cash,Dairy Products,1700.98,120.76
+2023-11-18,Travel,Online,Baggage Fees,679.18,50.41
+2023-11-18,Groceries,Cash,Cleaning Supplies,693.57,37.02
+2023-11-18,Transportation,Cash,Vehicle Registration Fees,580.23,15.28
+2023-11-18,Groceries,Online,Condiments And Spices,512.92,32.69
+2023-11-18,Utilities,Online,Cable TV Subscription,1026.8,97.74
+2023-11-18,Dining Out,Cash,Coffee Shop Visit,122.68,7.16
+2023-11-19,Health & Fitness,Online,Health Screenings,1187.35,94.15
+2023-11-19,Clothing,Cash,Work Attire,3587.28,183.86
+2023-11-19,Health & Fitness,Cash,Fitness Apps,352.24,4.34
+2023-11-19,Clothing,Online,Casual Wear,1367.92,42.68
+2023-11-19,Groceries,Online,Baking Ingredients,734.04,66.4
+2023-11-20,Dining Out,Cash,Brunch With Friends,653.21,30.46
+2023-11-21,Entertainment,Online,Theater Performances,2969.28,193.72
+2023-11-21,Dining Out,Online,Special Occasion Dinner,3461.17,270.22
+2023-11-21,Entertainment,Cash,Hobby Supplies,1146.07,77.96
+2023-11-21,Subscriptions,Online,Digital Magazine Subscriptions,413.63,32.72
+2023-11-21,Dining Out,Cash,Dinner At A Restaurant,2657.46,7.66
+2023-11-21,Dining Out,Cash,Coffee Shop Visit,365.93,9.86
+2023-11-22,Dining Out,Online,Dinner At A Restaurant,2761.04,164.18
+2023-11-22,Groceries,Online,Cleaning Supplies,1787.82,21.06
+2023-11-22,Dining Out,Cash,Buffet Meals,1418.96,10.93
+2023-11-23,Groceries,Online,Organic Produce,1508.65,72.83
+2023-11-24,Dining Out,Cash,Snacks From A Convenience Store,372.88,21.61
+2023-11-24,Dining Out,Cash,Special Occasion Dinner,4351.1,232.89
+2023-11-24,Utilities,Online,Electricity Bill,1183.43,14.21
+2023-11-24,Dining Out,Cash,Coffee Shop Visit,260.57,1.4
+2023-11-25,Dining Out,Cash,Fast Food Meal,201.62,10.2
+2023-11-25,Transportation,Cash,Bicycle Repairs,445.78,28.55
+2023-11-26,Entertainment,Cash,Movie Tickets,443.8,27.15
+2023-11-26,Health & Fitness,Online,Physical Therapy Sessions,2832.99,101.04
+2023-11-26,Travel,Cash,Local Transportation,476.19,18.65
+2023-11-26,Housing,Online,Home Security System,2979.41,68.29
+2023-11-27,Health & Fitness,Cash,Health Screenings,520.69,19.23
+2023-11-27,Health & Fitness,Cash,Yoga Classes,607.37,24.39
+2023-11-27,Clothing,Online,Fashion Accessories,789.0,59.9
+2023-11-27,Dining Out,Online,Coffee Shop Visit,150.85,6.74
+2023-11-28,Housing,Online,Appliance Purchases,5267.88,17.16
+2023-11-28,Dining Out,Online,Dinner At A Restaurant,806.86,44.62
+2023-11-29,Clothing,Online,Footwear,1376.76,36.78
+2023-11-29,Health & Fitness,Cash,Personal Training Sessions,2108.83,165.0
+2023-11-29,Utilities,Cash,Waste Disposal Fees,299.71,1.77
+2023-11-30,Transportation,Cash,Car Maintenance,3560.48,353.65
+2023-11-30,Clothing,Cash,Children's Apparel,1413.43,34.26
+2023-11-30,Subscriptions,Online,Gym Membership,824.9,10.41
+2023-11-30,Travel,Online,Airfare,4375.56,89.15
+2023-11-30,Dining Out,Cash,Coffee Shop Visit,172.11,5.15

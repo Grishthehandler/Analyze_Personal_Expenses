@@ -1,0 +1,101 @@
+Date,Category,Payment Mode,Description,Amount Paid,Cashback
+2023-08-01,Transportation,Online,Car Maintenance,4012.26,395.44
+2023-08-01,Utilities,Online,Water Bill,653.66,33.04
+2023-08-01,Entertainment,Cash,Art Supplies,1354.45,47.32
+2023-08-02,Travel,Cash,Souvenirs,1729.68,166.28
+2023-08-02,Entertainment,Cash,Board Games,1538.31,84.14
+2023-08-03,Subscriptions,Online,Meal Kit Subscriptions,2962.99,63.41
+2023-08-03,Dining Out,Online,Coffee Shop Visit,353.66,17.28
+2023-08-04,Travel,Online,Dining While Traveling,803.2,40.91
+2023-08-04,Entertainment,Online,Board Games,1326.43,34.68
+2023-08-04,Housing,Online,Home Insurance,1482.32,105.69
+2023-08-04,Travel,Cash,Tour Activities,2395.55,44.83
+2023-08-04,Transportation,Online,Vehicle Registration Fees,1253.88,37.33
+2023-08-05,Clothing,Cash,Casual Wear,922.48,22.99
+2023-08-05,Transportation,Cash,Parking Fees,915.58,88.67
+2023-08-05,Housing,Online,Home Security System,2327.06,203.05
+2023-08-06,Health & Fitness,Online,Physical Therapy Sessions,541.22,52.89
+2023-08-06,Health & Fitness,Online,Wellness Programs,840.31,41.04
+2023-08-06,Health & Fitness,Cash,Health Insurance Premiums,3994.73,171.68
+2023-08-06,Utilities,Cash,Waste Disposal Fees,456.81,19.66
+2023-08-06,Dining Out,Online,Coffee Shop Visit,142.53,3.31
+2023-08-07,Travel,Online,Travel Accessories,3377.3,130.73
+2023-08-07,Dining Out,Cash,Dinner At A Restaurant,1852.96,158.9
+2023-08-08,Entertainment,Cash,Books And E-Books,903.66,21.21
+2023-08-08,Utilities,Online,Mobile Phone Bill,1189.44,68.83
+2023-08-08,Transportation,Online,Parking Fees,301.52,28.81
+2023-08-09,Groceries,Cash,Condiments And Spices,416.39,21.67
+2023-08-09,Dining Out,Cash,Fast Food Meal,423.85,3.38
+2023-08-09,Housing,Online,Home Insurance,1136.93,39.41
+2023-08-09,Dining Out,Online,Coffee Shop Visit,187.85,3.78
+2023-08-10,Health & Fitness,Online,Health Insurance Premiums,1280.59,76.37
+2023-08-10,Groceries,Online,Snacks And Beverages,552.79,14.7
+2023-08-10,Entertainment,Cash,Books And E-Books,868.21,62.76
+2023-08-11,Utilities,Cash,Maintenance Fees,1108.35,4.25
+2023-08-11,Groceries,Online,Dairy Products,1002.88,30.65
+2023-08-11,Groceries,Online,Baking Ingredients,269.6,10.96
+2023-08-11,Entertainment,Cash,Concert Tickets,2408.93,144.5
+2023-08-12,Entertainment,Online,Theater Performances,1750.21,7.12
+2023-08-12,Travel,Cash,Hotel Accommodation,13516.61,787.74
+2023-08-12,Subscriptions,Online,Online Learning Platforms,3497.83,92.27
+2023-08-12,Travel,Cash,Hotel Accommodation,16075.18,1131.74
+2023-08-12,Subscriptions,Cash,Audiobook Services,307.76,9.89
+2023-08-12,Dining Out,Online,Coffee Shop Visit,100.61,3.9
+2023-08-13,Transportation,Cash,Car Maintenance,1187.38,49.73
+2023-08-14,Dining Out,Online,Buffet Meals,1325.42,45.03
+2023-08-14,Dining Out,Cash,Dinner At A Restaurant,2146.45,84.66
+2023-08-15,Subscriptions,Cash,Audiobook Services,585.77,51.6
+2023-08-15,Dining Out,Online,Coffee Shop Visit,457.4,32.9
+2023-08-16,Subscriptions,Online,Meal Kit Subscriptions,1405.5,60.24
+2023-08-16,Housing,Cash,Home Security System,2536.13,191.65
+2023-08-16,Health & Fitness,Cash,Nutritional Supplements,864.31,20.21
+2023-08-17,Travel,Cash,Travel Insurance,1591.0,71.03
+2023-08-18,Clothing,Cash,Tailoring Services,834.21,28.67
+2023-08-18,Dining Out,Cash,Lunch Takeaway,650.16,11.69
+2023-08-18,Dining Out,Cash,Coffee Shop Visit,318.2,26.56
+2023-08-19,Health & Fitness,Cash,Health Screenings,1316.1,108.76
+2023-08-19,Entertainment,Online,Theater Performances,1246.09,12.56
+2023-08-19,Housing,Online,Home Repairs,7196.81,312.98
+2023-08-19,Clothing,Cash,Tailoring Services,563.56,3.28
+2023-08-19,Groceries,Online,Fruits And Vegetables,1409.54,124.46
+2023-08-20,Health & Fitness,Online,Medical Consultations,2946.49,166.11
+2023-08-20,Transportation,Online,Public Transit Pass,552.21,0.75
+2023-08-20,Transportation,Online,Vehicle Registration Fees,575.12,30.83
+2023-08-21,Housing,Online,Utilities Included,1313.03,128.55
+2023-08-21,Travel,Cash,Travel Insurance,547.36,52.06
+2023-08-21,Dining Out,Cash,Dinner At A Restaurant,2705.66,72.45
+2023-08-21,Dining Out,Cash,Coffee Shop Visit,298.8,5.98
+2023-08-22,Dining Out,Cash,Coffee Shop Visit,278.61,15.82
+2023-08-22,Clothing,Online,Tailoring Services,884.55,65.02
+2023-08-22,Transportation,Online,Bicycle Repairs,603.33,29.58
+2023-08-22,Dining Out,Online,Desserts And Treats,226.34,0.33
+2023-08-22,Utilities,Cash,Electricity Bill,814.39,6.67
+2023-08-23,Dining Out,Cash,Beverages At Bars,355.02,34.01
+2023-08-23,Groceries,Cash,Frozen Foods,1068.11,86.09
+2023-08-24,Subscriptions,Online,Online Learning Platforms,4451.73,110.64
+2023-08-24,Clothing,Cash,Athletic Wear,2216.53,61.33
+2023-08-24,Housing,Online,HOA Fees,1829.4,124.42
+2023-08-24,Housing,Online,HOA Fees,1078.46,53.44
+2023-08-24,Utilities,Online,Gas Bill,1413.11,84.39
+2023-08-24,Dining Out,Online,Coffee Shop Visit,311.31,4.58
+2023-08-25,Health & Fitness,Cash,Gym Membership,1766.75,130.48
+2023-08-26,Housing,Cash,Utilities Included,144.6,13.13
+2023-08-26,Groceries,Cash,Fruits And Vegetables,1629.75,42.2
+2023-08-26,Groceries,Cash,Frozen Foods,1126.42,104.2
+2023-08-26,Transportation,Online,Public Transit Pass,843.05,67.61
+2023-08-26,Transportation,Cash,Public Transit Pass,1352.65,131.97
+2023-08-27,Clothing,Cash,Formal Wear,5984.43,445.47
+2023-08-27,Dining Out,Cash,Coffee Shop Visit,137.5,8.71
+2023-08-28,Clothing,Cash,Seasonal Clothing,4055.74,144.89
+2023-08-28,Entertainment,Cash,Concert Tickets,1004.84,50.19
+2023-08-28,Dining Out,Online,Dinner At A Restaurant,1948.66,61.19
+2023-08-29,Housing,Cash,Home Security System,1448.5,110.09
+2023-08-29,Travel,Online,Souvenirs,289.32,23.42
+2023-08-29,Subscriptions,Cash,Gaming Subscriptions,379.76,33.99
+2023-08-29,Transportation,Online,Toll Charges,432.66,25.1
+2023-08-29,Groceries,Online,Snacks And Beverages,1387.92,110.38
+2023-08-30,Travel,Online,Hotel Accommodation,19933.78,1547.64
+2023-08-30,Transportation,Cash,Car Maintenance,3817.99,368.68
+2023-08-30,Housing,Online,Home Repairs,4903.98,115.42
+2023-08-30,Clothing,Cash,Fashion Accessories,779.48,29.54
+2023-08-30,Utilities,Online,Sewer Charges,203.02,3.37
